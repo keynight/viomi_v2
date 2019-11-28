@@ -169,3 +169,16 @@ DEVICE_MANUFACTURER_URL='www.allwinnertech.com'
 DEVICE_PRODUCT='v1.0'
 DEVICE_REVISION='v1.0'
 
+root@TinaLinux:/home/iroot# netstat -tulpen
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 127.0.0.1:5037          0.0.0.0:*               LISTEN      593/adbd
+tcp        0      0 0.0.0.0:8111            0.0.0.0:*               LISTEN      616/RobotApp
+tcp       11      0 0.0.0.0:6000            0.0.0.0:*               LISTEN      706/everest-server
+tcp        0      0 0.0.0.0:53              0.0.0.0:*               LISTEN      909/dnsmasq
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      576/dropbear
+tcp        0      0 0.0.0.0:6008            0.0.0.0:*               LISTEN      617/wifiManager
+netstat: /proc/net/tcp6: No such file or directory
+udp        0      0 0.0.0.0:53              0.0.0.0:*                           909/dnsmasq
+udp        0      0 0.0.0.0:67              0.0.0.0:*                           909/dnsmasq
+udp        0      0 0.0.0.0:8899            0.0.0.0:*                           616/RobotApp
