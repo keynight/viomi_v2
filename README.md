@@ -9,8 +9,8 @@ sudo apt install adb
 
 # Start debug console
 
-root@ibm:~# adb devices -l
+sudo adb devices -l
 
-root@ibm:~# adb shell 
+sudo adb shell 
 
 >show inside.txt<
