@@ -1,0 +1,7 @@
+[Perference]
+m_eco_clean=0
+m_repeat_clean=0
+m_broken_clean=1
+m_carpet_turbo=0
+m_memory_map=1
+m_waterbox_clean=13

@@ -1,0 +1,261 @@
+2018/08/06,20:16:24.560231[LogGareth][LogNormal]-----sys config buffer =cp -rf /etc/sysconf/sysConfig.ini /mnt/UDISK/config/sysConfig.ini   -------
+2018/08/06,20:16:24.601634[LogGareth][LogNormal]file /mnt/UDISK/config/sysConfig.ini md5 f25c6df1b998c80b7730688c6b55f413 
+2018/08/06,20:16:24.620095[LogGareth][LogNormal]file /etc/sysconf/sysConfig.ini md5 f25c6df1b998c80b7730688c6b55f413 
+2018/08/06,20:16:24.622200[LogGareth][LogNormal]-----dev_sys_config_md5_str(f25c6df1b998c80b7730688c6b55f413) ----etc_sys_config_md5_str(f25c6df1b998c80b7730688c6b55f413)----
+2018/08/09,14:34:36.397913[LogGareth][LogNormal]m_packetinfo.m_package_information.upgradeInstall =0 
+2018/08/09,14:34:36.417566[LogGareth][LogNormal]UPGRADE_STATE_IDLE:: verificationStatu =1 
+2018/08/09,14:34:36.427239[LogGareth][LogNormal]UPGRADE_STATE_IDLE:: verificationStatu =3 
+2018/08/09,14:34:36.429027[LogGareth][LogNormal]UPGRADE_STATE_IDLE:: no upgrade package
+2018/08/09,14:34:36.430492[LogGareth][LogNormal]UPGRADE_STATE_IDLE:: verificationStatu =3 
+2018/08/09,14:34:43.435941[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:34:50.444562[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:34:57.450357[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:04.456308[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:11.463211[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:18.469469[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:25.476744[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:32.484021[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:39.490169[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:46.496578[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:53.501210[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:36:00.507221[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:36:07.512393[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:36:14.517196[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:36:21.525690[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:36:28.531635[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:36:35.542373[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:36:42.551733[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:36:49.558873[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:36:56.568164[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:37:03.576426[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:37:10.583841[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:37:17.593406[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:37:24.603082[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:37:31.609950[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:37:38.619379[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:37:45.628018[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:37:52.636103[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:37:59.643406[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:38:06.648942[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:38:13.653925[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:38:20.661284[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:38:27.669598[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:38:34.677571[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:38:41.687080[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:38:48.699486[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:38:55.709737[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:39:02.719344[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:39:09.727439[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:39:16.735056[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:39:23.744465[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:39:30.753095[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:39:37.761379[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:39:44.769845[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:39:51.780479[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:39:58.789741[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:40:05.799726[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:40:12.804696[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:40:19.812161[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:40:26.817191[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:40:33.823623[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:40:40.830908[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:40:47.839750[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:40:54.844343[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:41:01.851990[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:41:08.859749[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:41:15.862892[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:41:22.867696[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:41:29.874326[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:41:36.878950[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:41:43.886425[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:41:50.894984[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:41:57.903542[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:42:04.909666[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:42:11.917428[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:34:36.332443[LogGareth][LogNormal]m_packetinfo.m_package_information.upgradeInstall =0 
+2018/08/09,14:34:36.357563[LogGareth][LogNormal]UPGRADE_STATE_IDLE:: verificationStatu =1 
+2018/08/09,14:34:36.368190[LogGareth][LogNormal]UPGRADE_STATE_IDLE:: verificationStatu =3 
+2018/08/09,14:34:36.370247[LogGareth][LogNormal]UPGRADE_STATE_IDLE:: no upgrade package
+2018/08/09,14:34:36.371639[LogGareth][LogNormal]UPGRADE_STATE_IDLE:: verificationStatu =3 
+2018/08/09,14:34:43.378391[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:34:50.382567[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:34:57.387799[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:04.397153[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:11.403116[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:18.411826[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:25.417646[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:32.425438[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:39.430774[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:46.436811[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:53.444929[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:36:00.452840[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:36:07.461557[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:36:14.469215[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:36:21.476517[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:36:28.485475[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:36:35.493441[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:36:42.500857[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:36:49.506603[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:34:36.249765[LogGareth][LogNormal]m_packetinfo.m_package_information.upgradeInstall =0 
+2018/08/09,14:34:36.280084[LogGareth][LogNormal]UPGRADE_STATE_IDLE:: verificationStatu =1 
+2018/08/09,14:34:36.288203[LogGareth][LogNormal]UPGRADE_STATE_IDLE:: verificationStatu =3 
+2018/08/09,14:34:36.289733[LogGareth][LogNormal]UPGRADE_STATE_IDLE:: no upgrade package
+2018/08/09,14:34:36.290846[LogGareth][LogNormal]UPGRADE_STATE_IDLE:: verificationStatu =3 
+2018/08/09,14:34:43.296833[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:34:50.302936[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:34:57.309672[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:04.314133[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:11.321932[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:18.329529[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:25.337359[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:32.342356[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:39.351875[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:46.361858[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:35:53.366761[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:36:00.374658[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:37:32.075067[LogGareth][LogNormal]m_packetinfo.m_package_information.upgradeInstall =0 
+2018/08/09,14:37:32.103974[LogGareth][LogNormal]UPGRADE_STATE_IDLE:: verificationStatu =1 
+2018/08/09,14:37:32.113993[LogGareth][LogNormal]UPGRADE_STATE_IDLE:: verificationStatu =3 
+2018/08/09,14:37:32.115276[LogGareth][LogNormal]UPGRADE_STATE_IDLE:: no upgrade package
+2018/08/09,14:37:32.117266[LogGareth][LogNormal]UPGRADE_STATE_IDLE:: verificationStatu =3 
+2018/08/09,14:37:39.121617[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:37:46.129956[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:37:53.135639[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:38:00.142685[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:38:07.148815[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:38:14.156291[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:38:21.165365[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:38:28.170586[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:38:35.179296[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:38:42.186731[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:38:49.192694[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:38:56.198712[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:39:03.206578[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:39:10.214837[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:39:17.222049[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:39:24.231963[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:39:31.236470[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:39:38.245268[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:39:45.251575[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:39:52.259239[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:39:59.265599[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:40:06.272929[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:40:13.279738[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:40:20.283999[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:40:27.291599[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:40:34.297230[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:40:41.304217[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:40:48.310637[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:40:55.317522[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:41:02.324198[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:41:09.333043[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:41:16.340743[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:41:23.350074[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:41:30.359866[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:41:37.363706[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:41:44.370341[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:41:51.378154[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:41:58.386467[LogGareth][LogNormal]gethostbyname fail 
+2018/08/09,14:42:05.395751[LogGareth][LogNormal]gethostbyname fail 
+2019/06/06,04:56:38.099068[LogGareth][LogNormal]IP addr 1: 120.76.228.32
+2019/06/06,04:56:38.309079[LogGareth][LogNormal]connect succeed.
+2019/06/06,04:56:38.312235[LogGareth][LogNormal]HttpConnect succ m_httpClient =5 
+2019/06/06,04:56:38.578771[LogGareth][LogNormal]header recv
+2019/06/06,04:56:38.582704[LogGareth][LogNormal]count =161 m_ResponseHeader =HTTP/1.1 200 OK
+Server: gunicorn/19.6.0
+Date: Wed, 05 Jun 2019 20:56:39 GMT
+Connection: close
+Content-Type: text/html; charset=utf-8
+Content-Length: 282
+
+ 
+2019/06/06,04:56:38.586282[LogGareth][LogNormal] GetContentLength =282 
+2019/06/06,04:56:38.589770[LogGareth][LogNormal]m_recvBuf ={ "package_name": "ramdisk_sys", "package_version": "V1.2.9", "package_size": "23197553", "package_md5": "30ef9810fde30e1bcd835c3343355e22", "package_time": "1502282639", "package_url": "/static/ota_packages/VIOMICRL20S-Release/V1.2.10/ramdisk_sys.tar.gz", "force_update": "false" } 
+2019/06/06,04:56:38.594211[LogGareth][LogNormal]Parse package info
+2019/06/06,04:56:38.596518[LogGareth][LogNormal] info.packageSize =23197553 
+2019/06/06,04:56:38.598642[LogGareth][LogNormal] info.packageName =ramdisk_sys 
+2019/06/06,04:56:38.600345[LogGareth][LogNormal] info.otaPackageVersion =V1.2.9 
+2019/06/06,04:56:38.601742[LogGareth][LogNormal] info.autoUpdate =0 
+2019/06/06,04:56:38.603952[LogGareth][LogNormal] info.remoteUri =/static/ota_packages/VIOMICRL20S-Release/V1.2.10/ramdisk_sys.tar.gz 
+2019/06/06,04:56:38.606124[LogGareth][LogNormal] info.packageMD5 =30ef9810fde30e1bcd835c3343355e22 
+2019/06/06,04:56:38.607807[LogGareth][LogNormal] info.packageTime =1502282639 
+2019/06/06,04:56:38.609238[LogGareth][LogNormal]UPGRADE_STATE_RAMDISK_CHECK SavePackageInfo 
+2019/06/06,04:56:38.619652[LogGareth][LogNormal]UPGRADE_STATE_IDLE:: UPGRADE_STATE_TARGET_CHECK check conut =0 result =1 
+2019/06/06,04:56:40.705372[LogGareth][LogNormal]UPGRADE_STATE_RAMDISK_WAIT_DOWNLOAD 
+2019/06/06,04:56:40.714736[LogGareth][LogNormal]IP addr 1: 120.76.228.32
+2019/06/06,04:56:40.922867[LogGareth][LogNormal]connect succeed.
+2019/06/06,04:56:40.925148[LogGareth][LogNormal]HttpConnect succ m_httpClient =5 
+2019/06/06,04:56:41.136477[LogGareth][LogNormal]header recv
+2019/06/06,04:56:41.138037[LogGareth][LogNormal]count =360 m_ResponseHeader =HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Content-Disposition: attachment; filename="ramdisk_sys.tar.gz"
+OtaPackageUri: /OtaUpdater/android?product=VIOMICRL20S-Release-ramdisk&version=V1.2.9
+OtaPackageName: ramdisk_sys.tar.gz
+OtaPackageLength: 23197553
+OtaPackageVersion: ramdisk_sys.tar
+Content-Length: 23197553
+Date: Wed, 05 Jun 2019 20:56:41 GMT
+
+ 
+2019/06/06,04:56:54.345992[LogGareth][LogNormal]totalSize =23197553 
+2019/06/06,04:56:54.716029[LogGareth][LogNormal]MD5Compase::filepath=/mnt/UDISK/misc-upgrade/ramdisk_sys.tar.gz 
+2019/06/06,04:56:55.766570[LogGareth][LogNormal]file md5 /mnt/UDISK/misc-upgrade/ramdisk_sys.tar.gz 
+2019/06/06,04:56:55.769759[LogGareth][LogNormal]MD5Compase::[file: /mnt/UDISK/misc-upgrade/ramdisk_sys.tar.gz] [packageMD5: 30ef9810fde30e1bcd835c3343355e22 ] [fileMd5: 30ef9810fde30e1bcd835c3343355e22 ]
+2019/06/06,04:56:55.771914[LogGareth][LogNormal]MD5Compase:: /mnt/UDISK/misc-upgrade/ramdisk_sys.tar.gz MD5 OK 
+2019/06/06,04:56:57.787264[LogGareth][LogNormal]IP addr 1: 120.76.228.32
+2019/06/06,04:56:57.996486[LogGareth][LogNormal]connect succeed.
+2019/06/06,04:56:57.998833[LogGareth][LogNormal]HttpConnect succ m_httpClient =5 
+2019/06/06,04:56:58.268590[LogGareth][LogNormal]header recv
+2019/06/06,04:56:58.271729[LogGareth][LogNormal]count =161 m_ResponseHeader =HTTP/1.1 200 OK
+Server: gunicorn/19.6.0
+Date: Wed, 05 Jun 2019 20:56:59 GMT
+Connection: close
+Content-Type: text/html; charset=utf-8
+Content-Length: 280
+
+ 
+2019/06/06,04:56:58.274070[LogGareth][LogNormal] GetContentLength =280 
+2019/06/06,04:56:58.277755[LogGareth][LogNormal]m_recvBuf ={ "package_name": "target_sys", "package_version": "V1.2.9", "package_size": "24371019", "package_md5": "6b50c54072c72911444e93cc289b8262", "package_time": "1502282639", "package_url": "/static/ota_packages/VIOMICRL20S-Release/V1.2.10/target_sys.tar.gz", "force_update": "false" } } 
+2019/06/06,04:56:58.281069[LogGareth][LogNormal]Parse package info
+2019/06/06,04:56:58.283963[LogGareth][LogNormal] info.packageSize =24371019 
+2019/06/06,04:56:58.288002[LogGareth][LogNormal] info.packageName =target_sys 
+2019/06/06,04:56:58.291475[LogGareth][LogNormal] info.otaPackageVersion =V1.2.9 
+2019/06/06,04:56:58.294863[LogGareth][LogNormal] info.autoUpdate =0 
+2019/06/06,04:56:58.297864[LogGareth][LogNormal] info.remoteUri =/static/ota_packages/VIOMICRL20S-Release/V1.2.10/target_sys.tar.gz 
+2019/06/06,04:56:58.300485[LogGareth][LogNormal] info.packageMD5 =6b50c54072c72911444e93cc289b8262 
+2019/06/06,04:56:58.303967[LogGareth][LogNormal] info.packageTime =1502282639 
+2019/06/06,04:56:58.308413[LogGareth][LogNormal]UPGRADE_STATE_TARGET_CHECK SavePackageInfo 
+2019/06/06,04:56:58.318151[LogGareth][LogNormal]UPGRADE_STATE_IDLE:: UPGRADE_STATE_TARGET_CHECK check conut =1 result =1 
+2019/06/06,04:57:00.319875[LogGareth][LogNormal]UPGRADE_STATE_TARGET_WAIT_DOWNLOAD 
+2019/06/06,04:57:00.327331[LogGareth][LogNormal]IP addr 1: 120.76.228.32
+2019/06/06,04:57:00.535754[LogGareth][LogNormal]connect succeed.
+2019/06/06,04:57:00.538314[LogGareth][LogNormal]HttpConnect succ m_httpClient =5 
+2019/06/06,04:57:00.752883[LogGareth][LogNormal]header recv
+2019/06/06,04:57:00.756749[LogGareth][LogNormal]count =356 m_ResponseHeader =HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Content-Disposition: attachment; filename="target_sys.tar.gz"
+OtaPackageUri: /OtaUpdater/android?product=VIOMICRL20S-Release-target&version=V1.2.9
+OtaPackageName: target_sys.tar.gz
+OtaPackageLength: 24371019
+OtaPackageVersion: target_sys.tar
+Content-Length: 24371019
+Date: Wed, 05 Jun 2019 20:57:01 GMT
+
+ 
+2019/06/06,04:57:19.627942[LogGareth][LogNormal]totalSize =24371019 
+2019/06/06,04:57:20.333305[LogGareth][LogNormal]MD5Compase::filepath=/mnt/UDISK/misc-upgrade/target_sys.tar.gz 
+2019/06/06,04:57:21.428583[LogGareth][LogNormal]file md5 /mnt/UDISK/misc-upgrade/target_sys.tar.gz 
+2019/06/06,04:57:21.430302[LogGareth][LogNormal]MD5Compase::[file: /mnt/UDISK/misc-upgrade/target_sys.tar.gz] [packageMD5: 6b50c54072c72911444e93cc289b8262 ] [fileMd5: 6b50c54072c72911444e93cc289b8262 ]
+2019/06/06,04:57:21.431851[LogGareth][LogNormal]MD5Compase:: /mnt/UDISK/misc-upgrade/target_sys.tar.gz MD5 OK 
+2019/06/06,04:57:23.443352[LogGareth][LogNormal]upgardeMsgProcess :: UPGRADE_STATE_WAIT_INSTALL
+2019/06/06,04:59:23.094030[LogGareth][LogNormal]upgardeMsgProcess :: UPGRADE_STATE_WAIT_INSTALL
+2019/06/06,04:59:23.095967[LogGareth][LogNormal]upgardeMsgProcess :: ROBOTAPP_CTRL_INSTALL_START_REQ
+2019/06/06,04:59:23.455632[LogGareth][LogNormal]MD5Compase::filepath=/mnt/UDISK/misc-upgrade/ramdisk_sys.tar.gz 
+2019/06/06,04:59:24.497876[LogGareth][LogNormal]file md5 /mnt/UDISK/misc-upgrade/ramdisk_sys.tar.gz 
+2019/06/06,04:59:24.500573[LogGareth][LogNormal]MD5Compase::[file: /mnt/UDISK/misc-upgrade/ramdisk_sys.tar.gz] [packageMD5: 30ef9810fde30e1bcd835c3343355e22 ] [fileMd5: 30ef9810fde30e1bcd835c3343355e22 ]
+2019/06/06,04:59:24.502058[LogGareth][LogNormal]MD5Compase:: /mnt/UDISK/misc-upgrade/ramdisk_sys.tar.gz MD5 OK 
+2019/06/06,04:59:24.511228[LogGareth][LogNormal]MD5Compase::filepath=/mnt/UDISK/misc-upgrade/target_sys.tar.gz 
+2019/06/06,04:59:25.601592[LogGareth][LogNormal]file md5 /mnt/UDISK/misc-upgrade/target_sys.tar.gz 
+2019/06/06,04:59:25.603850[LogGareth][LogNormal]MD5Compase::[file: /mnt/UDISK/misc-upgrade/target_sys.tar.gz] [packageMD5: 6b50c54072c72911444e93cc289b8262 ] [fileMd5: 6b50c54072c72911444e93cc289b8262 ]
+2019/06/06,04:59:25.605300[LogGareth][LogNormal]MD5Compase:: /mnt/UDISK/misc-upgrade/target_sys.tar.gz MD5 OK 
+2019/06/06,04:59:42.446662[LogKimbo][LogNormal][CLog] Rename file log /mnt/UDISK/log/20_20190606-045942_upgrade.txt!

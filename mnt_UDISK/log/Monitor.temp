@@ -1,0 +1,86 @@
+2019/07/31,07:56:48.251694[LogKimbo][LogNormal][CLog] logControl has cut down!
+2019/07/31,07:56:48.253848[LogKimbo][LogNormal][Sys_Monitor] Finish copy path
+2019/06/06,04:59:26.709197[LogGareth][LogErro][Sys_Monitor] ----->>fork RobotApp ok
+
+2019/06/06,04:59:26.709322[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/RobotApp
+2019/06/06,04:59:27.223861[LogGareth][LogErro][Sys_Monitor] ----->>fork AuxCtrl ok
+
+2019/06/06,04:59:27.224832[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/AuxCtrl
+2019/06/06,04:59:27.747173[LogGareth][LogErro][Sys_Monitor] ----->>fork everest-server ok  
+
+2019/06/06,04:59:27.747298[LogGareth][LogErro][Sys_Monitor] proName:/usr/sbin/everest-server
+2019/06/06,04:59:28.276326[LogGareth][LogErro][Sys_Monitor] ----->>fork logServer ok
+
+2019/06/06,04:59:28.276534[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/log-server
+2019/06/06,04:59:26.612254[LogGareth][LogErro][Sys_Monitor] ----->>fork RobotApp ok
+
+2019/06/06,04:59:26.612370[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/RobotApp
+2019/06/06,04:59:27.121543[LogGareth][LogErro][Sys_Monitor] ----->>fork AuxCtrl ok
+
+2019/06/06,04:59:27.121748[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/AuxCtrl
+2019/06/06,04:59:27.625219[LogGareth][LogErro][Sys_Monitor] ----->>fork everest-server ok  
+
+2019/06/06,04:59:27.625358[LogGareth][LogErro][Sys_Monitor] proName:/usr/sbin/everest-server
+2019/06/06,04:59:28.140591[LogGareth][LogErro][Sys_Monitor] ----->>fork logServer ok
+
+2019/06/06,04:59:28.141140[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/log-server
+2019/06/06,04:59:26.720524[LogGareth][LogErro][Sys_Monitor] ----->>fork RobotApp ok
+
+2019/06/06,04:59:26.720627[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/RobotApp
+2019/06/06,04:59:27.238561[LogGareth][LogErro][Sys_Monitor] ----->>fork AuxCtrl ok
+
+2019/06/06,04:59:27.238717[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/AuxCtrl
+2019/06/06,04:59:27.742072[LogGareth][LogErro][Sys_Monitor] ----->>fork everest-server ok  
+
+2019/06/06,04:59:27.742202[LogGareth][LogErro][Sys_Monitor] proName:/usr/sbin/everest-server
+2019/06/06,04:59:28.258532[LogGareth][LogErro][Sys_Monitor] ----->>fork logServer ok
+
+2019/06/06,04:59:28.258676[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/log-server
+2019/06/06,04:59:26.560914[LogGareth][LogErro][Sys_Monitor] ----->>fork RobotApp ok
+
+2019/06/06,04:59:26.561027[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/RobotApp
+2019/06/06,04:59:27.069490[LogGareth][LogErro][Sys_Monitor] ----->>fork AuxCtrl ok
+
+2019/06/06,04:59:27.069719[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/AuxCtrl
+2019/06/06,04:59:27.573489[LogGareth][LogErro][Sys_Monitor] ----->>fork everest-server ok  
+
+2019/06/06,04:59:27.573620[LogGareth][LogErro][Sys_Monitor] proName:/usr/sbin/everest-server
+2019/06/06,04:59:28.089255[LogGareth][LogErro][Sys_Monitor] ----->>fork logServer ok
+
+2019/06/06,04:59:28.089404[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/log-server
+2019/06/06,04:59:26.719163[LogGareth][LogErro][Sys_Monitor] ----->>fork RobotApp ok
+
+2019/06/06,04:59:26.719283[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/RobotApp
+2019/06/06,04:59:27.228338[LogGareth][LogErro][Sys_Monitor] ----->>fork AuxCtrl ok
+
+2019/06/06,04:59:27.228489[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/AuxCtrl
+2019/06/06,04:59:27.735088[LogGareth][LogErro][Sys_Monitor] ----->>fork everest-server ok  
+
+2019/06/06,04:59:27.735239[LogGareth][LogErro][Sys_Monitor] proName:/usr/sbin/everest-server
+2019/06/06,04:59:28.257355[LogGareth][LogErro][Sys_Monitor] ----->>fork logServer ok
+
+2019/06/06,04:59:28.257550[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/log-server
+2019/06/06,04:59:26.713640[LogGareth][LogErro][Sys_Monitor] ----->>fork RobotApp ok
+
+2019/06/06,04:59:26.713784[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/RobotApp
+2019/06/06,04:59:27.222397[LogGareth][LogErro][Sys_Monitor] ----->>fork AuxCtrl ok
+
+2019/06/06,04:59:27.222530[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/AuxCtrl
+2019/06/06,04:59:27.726237[LogGareth][LogErro][Sys_Monitor] ----->>fork everest-server ok  
+
+2019/06/06,04:59:27.726383[LogGareth][LogErro][Sys_Monitor] proName:/usr/sbin/everest-server
+2019/06/06,04:59:28.230376[LogGareth][LogErro][Sys_Monitor] ----->>fork logServer ok
+
+2019/06/06,04:59:28.230525[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/log-server
+2019/06/06,04:59:26.713990[LogGareth][LogErro][Sys_Monitor] ----->>fork RobotApp ok
+
+2019/06/06,04:59:26.714106[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/RobotApp
+2019/06/06,04:59:27.216954[LogGareth][LogErro][Sys_Monitor] ----->>fork AuxCtrl ok
+
+2019/06/06,04:59:27.217098[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/AuxCtrl
+2019/06/06,04:59:27.720396[LogGareth][LogErro][Sys_Monitor] ----->>fork everest-server ok  
+
+2019/06/06,04:59:27.720574[LogGareth][LogErro][Sys_Monitor] proName:/usr/sbin/everest-server
+2019/06/06,04:59:28.239803[LogGareth][LogErro][Sys_Monitor] ----->>fork logServer ok
+
+2019/06/06,04:59:28.239942[LogGareth][LogNormal][Sys_Monitor] proName:/usr/sbin/log-server

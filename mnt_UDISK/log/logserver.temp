@@ -1,0 +1,10 @@
+2018/08/06,20:16:25.697352[LogKimbo][LogNormal][CUdpServer] ThreadGetID (794)
+2018/08/06,20:16:28.651242[LogKimbo][LogNormal][CUdpServer] ThreadGetID (732)
+2018/08/06,20:16:28.656357[LogMeng][LogNormal][CLogServer] START to compress log files  !
+2018/08/06,20:16:28.685225[LogKimbo][LogNormal][CFileOutCompress] current read bytes is 526, readed bytes is 526, total bytes is 526!
+2018/08/06,20:16:28.703543[LogKimbo][LogNormal][CLogServer] Compress file /mnt/UDISK/log/201886-201626_wifimanager.txt.gz, time 0.04055 !
+2018/08/06,20:16:28.720487[LogMeng][LogNormal][CLogServer] Compress file finish!!!!!  /mnt/UDISK/log/201886-201626_wifimanager.txt.gz !
+2018/08/06,20:16:30.726026[LogMeng][LogNormal][CLogServer] START to compress log files  !
+2018/08/06,20:16:30.742349[LogKimbo][LogNormal][CFileOutCompress] current read bytes is 8685, readed bytes is 8685, total bytes is 8685!
+2018/08/06,20:16:30.752272[LogKimbo][LogNormal][CLogServer] Compress file /mnt/UDISK/log/0_0_20180806-201627_logfile.txt.gz, time 0.01823 !
+2018/08/06,20:16:30.764981[LogMeng][LogNormal][CLogServer] Compress file finish!!!!!  /mnt/UDISK/log/0_0_20180806-201627_logfile.txt.gz !

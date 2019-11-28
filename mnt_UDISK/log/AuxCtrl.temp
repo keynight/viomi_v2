@@ -1,0 +1,729 @@
+2018/08/06,20:16:24.650048[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:24.714172[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:24.769106[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:24.794668[LogKimbo][LogWarn][CSerTCPSocket] read adb !
+2018/08/06,20:16:24.811230[LogKimbo][LogErro]CMsgServer::Init socket::m_Svrfd =	7 
+ 2018/08/06,20:16:24.829705[LogKimbo][LogErro][C3iroboticsLidar] Init device conenct sucessful!
+2018/08/06,20:16:24.842799[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:24.899127[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:24.963634[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:25.019990[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:25.077023[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:25.135208[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:25.191481[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:25.253481[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:25.317845[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:25.384820[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:25.439950[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:25.495928[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:25.561958[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:25.621440[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:25.682854[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:25.740028[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:25.805170[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:25.861050[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:25.920201[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:25.978020[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:26.046235[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:26.103097[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:26.158925[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:26.223679[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:26.283727[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:26.345572[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:26.408822[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:26.466890[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:26.524896[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:26.590713[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:26.658944[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:26.717080[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:26.780224[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:26.839347[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:26.894774[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:26.952071[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:27.006950[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:27.062773[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:27.121856[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:27.184848[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:27.240198[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:27.296211[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:27.353064[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:27.409441[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:27.466398[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:27.522475[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:27.615064[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:27.671570[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:27.727722[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:27.783583[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:27.838683[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:27.895314[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:27.953336[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:28.008825[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:28.081136[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:28.182489[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:28.240516[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:28.297311[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:28.353516[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:28.410055[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:28.466810[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:28.525003[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:28.581665[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:28.639999[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:28.717985[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:28.776416[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:28.835231[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:28.923848[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:28.985211[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:29.091084[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:29.150189[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:29.204616[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:29.266923[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:29.322162[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:29.376841[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:29.431291[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:29.486886[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:29.541836[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:29.597329[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:29.653858[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:29.710040[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:29.819344[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:29.873980[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:29.930207[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:29.986178[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:30.041929[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:30.104423[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:30.159947[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:30.216213[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:30.274488[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:30.366407[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:30.422471[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:30.480481[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:30.536365[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:30.594270[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:30.651303[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:30.708014[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:30.765333[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:30.821938[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:30.917296[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:30.974883[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:31.030723[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:27.460813[LogKimbo][LogErro][Main] Enter Test mode! 1
+2018/08/06,20:16:27.524253[LogKimbo][LogErro][CSerTCPSocket]    killall miio_client
+2018/08/06,20:16:27.556694[LogKimbo][LogErro][CSerTCPSocket]    killall miio_client_helper
+2018/08/06,20:16:27.596384[LogKimbo][LogWarn][CSerTCPSocket] read adb !
+2018/08/06,20:16:27.600345[LogKimbo][LogErro]CMsgServer::Init socket::m_Svrfd =	8 
+ 2018/08/06,20:16:27.606775[LogKimbo][LogErro][C3iroboticsLidar] Init device conenct sucessful!
+2018/08/06,20:16:27.872235[LogKimbo][LogWarn][CSerTCPSocket] close adb !
+2018/08/06,20:16:29.608558[LogKimbo][LogErro][CSerTCPSocket]   killall wifiManager
+2018/08/06,20:16:29.802593[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/06,20:16:35.740809[LogKimbo][LogWarn][CSerTCPSocket] open adb !
+2018/08/06,20:16:35.749405[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 401!
+2018/08/06,20:16:35.765190[LogKimbo][LogErro][CSerTCPSocket]WlanApStart successful ap is  !
+2018/08/09,14:34:22.297696[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:22.352686[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:22.414125[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:22.447087[LogKimbo][LogWarn][CSerTCPSocket] read adb !
+2018/08/09,14:34:22.452456[LogKimbo][LogErro]CMsgServer::Init socket::m_Svrfd =	7 
+ 2018/08/09,14:34:22.472425[LogKimbo][LogErro][C3iroboticsLidar] Init device conenct sucessful!
+2018/08/09,14:34:22.492361[LogKimbo][LogWarn][AuxCtrl] readRestartCounts 0!
+2018/08/09,14:34:22.496376[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:22.552888[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:22.609206[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:22.674745[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:22.744584[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:22.800182[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:22.858868[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:22.916160[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:22.972081[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:23.028565[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:23.094607[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:23.150659[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:23.207852[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:23.264649[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:23.328953[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:23.387719[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:23.449524[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:23.509992[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:23.569120[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:23.626908[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:23.683349[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:23.740206[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:23.797880[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:23.854829[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:23.911347[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:23.967790[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:24.023864[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:24.090128[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:24.147838[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:24.202071[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:24.257410[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:24.312868[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:24.367638[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:24.422924[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:24.479253[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:24.534536[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:24.591842[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:24.646528[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:24.701804[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:24.760262[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:24.816566[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:24.871057[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:24.925137[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:24.980842[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:25.036177[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:25.036514[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:25.091540[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:25.136589[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:25.136849[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:25.146174[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:25.200441[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:25.236722[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:25.236946[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:25.254367[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:25.309427[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:25.336834[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:25.337071[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:25.363381[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:25.417740[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:25.436972[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:25.437214[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:25.473380[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:25.528787[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:25.537132[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:25.537400[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:25.551184[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:34:25.551372[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:25.575168[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:25.630755[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:25.687013[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:25.793303[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:25.849192[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:25.904190[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:25.958959[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.014478[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.069324[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.124118[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.178049[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.232874[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.287085[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.341632[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.395941[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.450370[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.505200[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.562598[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.617347[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.671335[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.725360[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.780078[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.834197[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.889229[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.943144[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:26.997610[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:27.052033[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:27.106687[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:27.160557[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:27.214273[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:27.268731[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:27.322683[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:27.378284[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:27.432975[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:27.488281[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:27.543577[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:27.597966[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:27.654037[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:27.709406[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:27.764073[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:27.818672[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:27.874189[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:27.928325[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:27.982933[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:28.037179[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:28.091796[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:28.146011[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:28.200904[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:28.255023[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:28.308945[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:28.363632[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:28.419084[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:28.473724[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:28.527953[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:28.582715[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:28.637596[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:28.692325[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:28.747027[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:28.801150[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:28.855789[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:28.910463[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:28.964970[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:29.019305[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:29.072878[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:29.128819[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:29.182226[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:29.235680[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:29.289966[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:29.343850[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:29.399282[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:29.455199[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:29.509891[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:29.564926[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:29.621502[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:29.675932[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:29.731274[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:29.785970[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:29.840297[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:29.895411[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:29.950859[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.005583[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.060194[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.114865[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.168591[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.223820[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.277941[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.331786[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.386320[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.440985[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.495654[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.549691[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.604308[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.658458[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.712269[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.766665[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.820712[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.875285[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.929940[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:30.984158[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:31.037628[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:31.092038[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:31.145775[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:31.199804[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:31.253628[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:31.307982[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:31.361691[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:31.415186[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:31.470246[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:31.524634[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:31.579783[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:31.634371[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:31.691059[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:31.746169[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:31.800522[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:31.858040[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:31.912735[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:31.968674[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:32.023578[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:32.078239[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:32.132975[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:32.186822[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:32.241548[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:32.295267[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:32.349792[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:32.403960[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:32.458172[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:32.512642[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:32.566606[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:32.620411[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:32.675035[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:32.729082[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:32.783669[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:32.838356[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:32.892136[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:32.946756[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.001276[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.055636[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.109406[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.163767[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.218094[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.271641[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.325997[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.379348[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.433638[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.487513[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.542374[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.597333[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.651827[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.707141[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.764875[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.819526[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.874800[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.929923[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.984270[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:34:33.987843[LogKimbo][LogErro][AuxCtrl] lost count 151!
+2018/08/09,14:34:33.989514[LogKimbo][LogWarn][AuxCtrl] exit AuxCTRL!
+2018/08/09,14:34:33.990959[LogKimbo][LogWarn][AuxCtrl] writeRestartCounts 1!
+2018/08/09,14:34:26.478732[LogKimbo][LogErro][Main] Enter Test mode! 2
+2018/08/09,14:34:26.639814[LogKimbo][LogWarn][CSerTCPSocket] read adb !
+2018/08/09,14:34:26.651563[LogKimbo][LogErro]CMsgServer::Init socket::m_Svrfd =	9 
+ 2018/08/09,14:34:26.673761[LogKimbo][LogErro][C3iroboticsLidar] Init device conenct sucessful!
+2018/08/09,14:34:26.682124[LogKimbo][LogWarn][AuxCtrl] readRestartCounts 1!
+2018/08/09,14:34:27.542758[LogKimbo][LogErro][CSerTCPSocket] test mode 3i-test, pass 3irobotix!
+2018/08/09,14:34:32.793848[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:34:32.813830[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:34:32.833791[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:34:32.853853[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:34:32.873840[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:34:32.893842[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:34:32.913811[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:34:26.400311[LogKimbo][LogErro][Main] Enter Test mode! 2
+2018/08/09,14:34:26.537515[LogKimbo][LogWarn][CSerTCPSocket] read adb !
+2018/08/09,14:34:26.540876[LogKimbo][LogErro]CMsgServer::Init socket::m_Svrfd =	9 
+ 2018/08/09,14:34:26.549941[LogKimbo][LogErro][C3iroboticsLidar] Init device conenct sucessful!
+2018/08/09,14:34:26.567648[LogKimbo][LogWarn][AuxCtrl] readRestartCounts 1!
+2018/08/09,14:34:27.463732[LogKimbo][LogErro][CSerTCPSocket] test mode 3i-test, pass 3irobotix!
+2018/08/09,14:34:35.733569[LogKimbo][LogWarn][CSerTCPSocket] open adb !
+2018/08/09,14:34:35.742411[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 401!
+2018/08/09,14:34:35.755520[LogKimbo][LogErro][CSerTCPSocket] connect wlan successful 3ifactory-test 3irobotix!
+2018/08/09,14:35:45.287395[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 106
+2018/08/09,14:35:45.289895[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 105
+2018/08/09,14:35:45.291942[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:35:45.293374[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 101
+2018/08/09,14:35:45.294543[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:35:45.296545[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 151
+2018/08/09,14:35:45.298514[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:35:46.038449[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 163
+2018/08/09,14:35:46.130784[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:35:46.260886[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 166
+2018/08/09,14:36:02.528420[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 106
+2018/08/09,14:36:02.530180[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 105
+2018/08/09,14:36:02.533404[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:36:02.536249[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 101
+2018/08/09,14:36:02.539220[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:36:02.543017[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 151
+2018/08/09,14:36:02.546745[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:36:02.616931[LogKimbo][LogErro]ConnClient::closed by server! err No error information
+2018/08/09,14:39:33.971015[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 106
+2018/08/09,14:39:33.973454[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 105
+2018/08/09,14:39:33.976242[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:39:33.978973[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 101
+2018/08/09,14:39:33.982867[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:39:33.987885[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 151
+2018/08/09,14:39:33.992102[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:39:34.529828[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 106
+2018/08/09,14:39:34.533264[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 105
+2018/08/09,14:39:34.534952[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:39:34.536334[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 101
+2018/08/09,14:39:34.538660[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:39:34.540821[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 151
+2018/08/09,14:39:34.542508[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:39:35.830133[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 161
+2018/08/09,14:39:37.443020[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 163
+2018/08/09,14:39:37.535059[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:39:39.869580[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:39:40.001742[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:39:40.097270[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:39:40.208384[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:39:40.318367[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:39:40.417387[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:39:40.573217[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:40:11.880089[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 107
+2018/08/09,14:40:15.697228[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 107
+2018/08/09,14:40:15.699162[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 105
+2018/08/09,14:40:15.700580[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 106
+2018/08/09,14:40:18.977584[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 106
+2018/08/09,14:40:18.979325[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 105
+2018/08/09,14:40:18.981902[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:40:18.985284[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 101
+2018/08/09,14:40:18.988376[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:40:18.991792[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 151
+2018/08/09,14:40:18.995088[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:40:27.275172[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 105
+2018/08/09,14:40:27.276899[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 106
+2018/08/09,14:40:32.638156[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 106
+2018/08/09,14:40:32.640173[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 105
+2018/08/09,14:40:32.641354[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:40:32.643301[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 101
+2018/08/09,14:40:32.645251[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:40:32.648497[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 151
+2018/08/09,14:40:32.652151[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:40:35.143554[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 106
+2018/08/09,14:40:35.146274[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 105
+2018/08/09,14:40:35.148242[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:40:35.151067[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 101
+2018/08/09,14:40:35.153832[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:40:35.156091[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 151
+2018/08/09,14:40:35.158036[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:40:35.349527[LogKimbo][LogErro]ConnClient::closed by server! err No error information
+2018/08/09,14:41:55.369535[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 10
+2018/08/09,14:41:55.374215[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 106
+2018/08/09,14:41:55.378930[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 105
+2018/08/09,14:41:55.380653[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:41:55.382025[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 101
+2018/08/09,14:41:55.384210[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:41:55.386373[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 151
+2018/08/09,14:41:55.388102[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:41:55.856448[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 10
+2018/08/09,14:41:55.858001[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 10
+2018/08/09,14:41:55.860203[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 106
+2018/08/09,14:41:55.862360[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 105
+2018/08/09,14:41:55.864035[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:41:55.865416[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 101
+2018/08/09,14:41:55.867615[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:41:55.869847[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 151
+2018/08/09,14:41:55.871224[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:41:56.579676[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 162
+2018/08/09,14:41:56.588706[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 164
+2018/08/09,14:41:56.599990[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 167
+2018/08/09,14:41:57.239408[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 101
+2018/08/09,14:41:57.241132[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 103
+2018/08/09,14:41:57.244047[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:41:57.246772[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 151
+2018/08/09,14:41:59.553749[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 103
+2018/08/09,14:41:59.556199[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:42:01.938665[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 103
+2018/08/09,14:42:01.941489[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:42:05.220984[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 103
+2018/08/09,14:42:07.065942[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 10
+2018/08/09,14:42:07.068546[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 106
+2018/08/09,14:42:07.070545[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 105
+2018/08/09,14:42:07.071984[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:42:07.073167[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 101
+2018/08/09,14:42:07.075117[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:42:11.211956[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 151
+2018/08/09,14:34:22.629366[LogKimbo][LogWarn][CSerTCPSocket] read adb !
+2018/08/09,14:34:22.634119[LogKimbo][LogErro]CMsgServer::Init socket::m_Svrfd =	7 
+ 2018/08/09,14:34:22.641710[LogKimbo][LogErro][C3iroboticsLidar] Init device conenct sucessful!
+2018/08/09,14:34:22.661451[LogKimbo][LogWarn][AuxCtrl] readRestartCounts 1!
+2018/08/09,14:34:25.294006[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:25.394085[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:25.394368[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:25.494220[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:25.494438[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:25.594333[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:25.594615[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:25.694477[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:25.694752[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:25.792143[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:34:25.792327[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:25.806998[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:31.361679[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 1!
+2018/08/09,14:34:31.361910[LogKimbo][LogWarn][AuxCtrl] lidar power is 1
+2018/08/09,14:37:39.007773[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:37:39.007964[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:37:42.237401[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 1!
+2018/08/09,14:37:42.237612[LogKimbo][LogWarn][AuxCtrl] lidar power is 1
+2018/08/09,14:40:37.592059[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:40:37.592226[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:40:38.477765[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 1!
+2018/08/09,14:40:38.477949[LogKimbo][LogWarn][AuxCtrl] lidar power is 1
+2018/08/09,14:43:22.826184[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:43:22.826374[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:43:24.147255[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 1!
+2018/08/09,14:43:24.147520[LogKimbo][LogWarn][AuxCtrl] lidar power is 1
+2018/08/09,14:44:34.504218[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:44:34.504416[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:47:23.746881[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 1!
+2018/08/09,14:47:23.747052[LogKimbo][LogWarn][AuxCtrl] lidar power is 1
+2018/08/09,14:47:31.235072[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:47:31.235356[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:47:35.910336[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:34:26.380820[LogKimbo][LogErro][Main] Enter Test mode! 2
+2018/08/09,14:34:26.493195[LogKimbo][LogWarn][CSerTCPSocket] read adb !
+2018/08/09,14:34:26.495744[LogKimbo][LogErro]CMsgServer::Init socket::m_Svrfd =	9 
+ 2018/08/09,14:34:26.517607[LogKimbo][LogErro][C3iroboticsLidar] Init device conenct sucessful!
+2018/08/09,14:34:26.527945[LogKimbo][LogWarn][AuxCtrl] readRestartCounts 1!
+2018/08/09,14:34:27.444269[LogKimbo][LogErro][CSerTCPSocket] test mode 3i-test, pass 3irobotix!
+2018/08/09,14:34:35.793512[LogKimbo][LogWarn][CSerTCPSocket] open adb !
+2018/08/09,14:34:35.803065[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 401!
+2018/08/09,14:34:35.817612[LogKimbo][LogErro][CSerTCPSocket] connect wlan successful 3ifactory-test 3irobotix!
+2018/08/09,14:36:46.311683[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 8
+2018/08/09,14:36:48.884473[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:36:51.339468[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:34:22.532734[LogKimbo][LogWarn][CSerTCPSocket] read adb !
+2018/08/09,14:34:22.541662[LogKimbo][LogErro]CMsgServer::Init socket::m_Svrfd =	7 
+ 2018/08/09,14:34:22.551196[LogKimbo][LogErro][C3iroboticsLidar] Init device conenct sucessful!
+2018/08/09,14:34:22.570309[LogKimbo][LogWarn][AuxCtrl] readRestartCounts 1!
+2018/08/09,14:34:25.209892[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:25.309943[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:25.310249[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:25.410087[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:25.410556[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:25.510177[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:25.510368[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:25.610323[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:25.610582[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:25.663394[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:34:25.663682[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:25.692742[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:49.812726[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 1!
+2018/08/09,14:34:49.812881[LogKimbo][LogWarn][AuxCtrl] lidar power is 1
+2018/08/09,14:35:04.342460[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:35:04.342813[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:37:33.639362[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:37:33.639610[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:37:40.262407[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:37:40.262566[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:37:45.074358[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 1!
+2018/08/09,14:37:45.074548[LogKimbo][LogWarn][AuxCtrl] lidar power is 1
+2018/08/09,14:38:28.393032[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:38:28.393211[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:38:40.276351[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, crc check is wrong !
+2018/08/09,14:38:40.296350[LogKimbo][LogWarn][CRobotPacketReceiver] id 0, Receive packet time 50 ms is over!
+2018/08/09,14:38:58.760402[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:38:58.760582[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:26.302437[LogKimbo][LogErro][Main] Enter Test mode! 1
+2018/08/09,14:34:26.445869[LogKimbo][LogWarn][CSerTCPSocket] read adb !
+2018/08/09,14:34:26.447599[LogKimbo][LogErro]CMsgServer::Init socket::m_Svrfd =	8 
+ 2018/08/09,14:34:26.460467[LogKimbo][LogWarn][AuxCtrl] readRestartCounts 1!
+2018/08/09,14:34:26.462718[LogKimbo][LogErro][C3iroboticsLidar] Init device conenct sucessful!
+2018/08/09,14:34:33.622846[LogKimbo][LogWarn][CSerTCPSocket] open adb !
+2018/08/09,14:34:33.631816[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 401!
+2018/08/09,14:34:33.644650[LogKimbo][LogErro][CSerTCPSocket]WlanApStart successful ap is RVCLM21BD3B0813 !
+2018/08/09,14:35:07.014801[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 106
+2018/08/09,14:35:07.017092[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 105
+2018/08/09,14:35:07.019297[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:35:07.021489[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 101
+2018/08/09,14:35:07.023232[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:35:07.024626[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 151
+2018/08/09,14:35:07.026821[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:35:07.581528[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 106
+2018/08/09,14:35:07.584062[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 105
+2018/08/09,14:35:07.585534[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:35:07.586652[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 101
+2018/08/09,14:35:07.588671[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:35:07.590568[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 151
+2018/08/09,14:35:07.593369[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:35:08.550437[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 163
+2018/08/09,14:35:08.788957[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 166
+2018/08/09,14:35:22.246508[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 106
+2018/08/09,14:35:22.249025[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 105
+2018/08/09,14:35:22.250925[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:35:22.253771[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 101
+2018/08/09,14:35:22.257945[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:35:22.261068[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 151
+2018/08/09,14:35:22.264150[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:35:22.794378[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 106
+2018/08/09,14:35:22.797078[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 105
+2018/08/09,14:35:22.799110[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 104
+2018/08/09,14:35:22.801979[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 101
+2018/08/09,14:35:22.804802[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:35:22.807051[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 151
+2018/08/09,14:35:22.809008[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 141
+2018/08/09,14:35:25.399151[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 163
+2018/08/09,14:35:25.631598[LogKimbo][LogWarn][CSerTCPSocket] robot send cmd  is 166
+2018/08/09,14:35:46.498586[LogKimbo][LogErro]ConnClient::closed by server! err No error information
+2018/08/09,14:36:00.684402[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:00.704404[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:00.724389[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:00.744428[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:00.764421[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:00.784467[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:00.804466[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:00.824454[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:00.844464[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:00.864429[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:00.884430[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:00.904392[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:00.924407[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:00.944498[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:00.964416[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:00.984420[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.004735[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.024459[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.044406[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.064404[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.084394[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.104378[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.124393[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.144406[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.164428[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.184409[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.204404[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.224412[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.244401[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.264429[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.284437[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.304421[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.324423[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.344526[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.364388[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.384383[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.404380[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.424450[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.444410[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.464412[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.484423[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.504744[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.524380[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.544401[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.564465[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.584430[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.604434[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.624437[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.644423[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.665502[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.684397[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.704408[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.724430[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.744387[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.764379[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.784484[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.804428[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.824424[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.844468[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.864453[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.884439[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.904424[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.924428[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.944437[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.964431[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:01.985816[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:36:02.004730[LogKimbo][LogErro][CSerTCPSocket] newPlaySound 402!
+2018/08/09,14:34:32.631134[LogKimbo][LogWarn][CSerTCPSocket] read adb !
+2018/08/09,14:34:32.633132[LogKimbo][LogErro]CMsgServer::Init socket::m_Svrfd =	8 
+ 2018/08/09,14:34:32.635721[LogKimbo][LogWarn][AuxCtrl] readRestartCounts 1!
+2018/08/09,14:34:32.642629[LogKimbo][LogErro][C3iroboticsLidar] Init device conenct sucessful!
+2018/08/09,14:34:35.314868[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:35.414937[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:35.415220[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:35.515050[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:35.515341[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:35.615182[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:35.615376[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:35.715273[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:35.715591[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:35.728065[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:34:35.728250[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:35.740502[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:35:16.047509[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:34:32.534478[LogKimbo][LogWarn][CSerTCPSocket] read adb !
+2018/08/09,14:34:32.537276[LogKimbo][LogErro]CMsgServer::Init socket::m_Svrfd =	9 
+ 2018/08/09,14:34:32.563706[LogKimbo][LogErro][C3iroboticsLidar] Init device conenct sucessful!
+2018/08/09,14:34:32.573699[LogKimbo][LogWarn][AuxCtrl] readRestartCounts 1!
+2018/08/09,14:34:35.215673[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:35.315748[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:35.316029[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:35.415863[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:35.416156[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:35.515966[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:35.516217[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:35.616104[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:35.616371[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:35.650003[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:34:35.650223[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:35.662060[LogKimbo][LogWarn][AuxCtrl] Sleep state 0!
+2018/08/09,14:34:42.113788[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:34:42.114013[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:34:53.965596[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 1!
+2018/08/09,14:34:53.965813[LogKimbo][LogWarn][AuxCtrl] lidar power is 1
+2018/08/09,14:35:44.230048[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:35:44.230446[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:35:47.363072[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 1!
+2018/08/09,14:35:47.363371[LogKimbo][LogWarn][AuxCtrl] lidar power is 1
+2018/08/09,14:35:52.263917[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:35:52.264149[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2018/08/09,14:35:58.447058[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 1!
+2018/08/09,14:35:58.447284[LogKimbo][LogWarn][AuxCtrl] lidar power is 1
+2018/08/09,14:36:53.195723[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2018/08/09,14:36:53.195900[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2019/06/06,04:57:45.582970[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 1!
+2019/06/06,04:57:45.583139[LogKimbo][LogWarn][AuxCtrl] lidar power is 1
+2019/06/06,04:57:49.934939[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2019/06/06,04:57:49.935131[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2019/06/06,04:58:04.293574[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2019/06/06,04:58:04.293762[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2019/06/06,04:58:07.859503[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 1!
+2019/06/06,04:58:07.859673[LogKimbo][LogWarn][AuxCtrl] lidar power is 1
+2019/06/06,04:58:57.981772[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2019/06/06,04:58:57.981948[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
+2019/06/06,04:59:08.138439[LogKimbo][LogWarn][CLidarPacket] verifyCheckSum temp 2488, chksum 24397, caculate 620!
+2019/06/06,04:59:08.141649[LogKimbo][LogWarn][CLidarPacketReceiver] CRC verify wrong! CHECK_NUMBER_CRC
+2019/06/06,04:59:15.684006[LogKimbo][LogWarn][AuxCtrl] Aux lidar control 0!
+2019/06/06,04:59:15.684173[LogKimbo][LogWarn][AuxCtrl] lidar power is 0
