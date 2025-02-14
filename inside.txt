@@ -97,6 +97,8 @@ network:*:0:0:99999:7:::
 nobody:*:0:0:99999:7:::
 root@TinaLinux:/# 
 
+# password hash $1$ZnE1NgOT$oWafIj8xgsknzdJmRZM9N/ == 3irobotics
+
 root@TinaLinux:~# cat /etc/openwrt_*
 DISTRIB_ID='tina.zhengzf.20190407.070641'
 DISTRIB_RELEASE='Neptune'
