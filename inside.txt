@@ -89,6 +89,8 @@ ftp:*:55:55:ftp:/home/ftp:/bin/false
 network:*:101:101:network:/var:/bin/false
 nobody:*:65534:65534:nobody:/var:/bin/false
 
+#original password hash → $1$ZnE1NgOT$oWafIj8xgsknzdJmRZM9N/ == 3irobotics
+
 root@TinaLinux:/# cat /etc/shadow 
 root:$1$ZnE1NgOT$oWafIj8xgsknzdJmRZM9N/:17305:0:99999:7:::
 daemon:*:0:0:99999:7:::
